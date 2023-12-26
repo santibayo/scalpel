@@ -1,3 +1,3 @@
-module forensics/scalper
+module scalper
 
 go 1.21.4
